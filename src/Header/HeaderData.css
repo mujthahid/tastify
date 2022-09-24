@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header{
+    position: fixed;
+    z-index: 20;
+   
+}
+
+
+.nav {
+    display: flex;
+    background-color:rgba(0,0,0,0.75);
+    width: 100vw;
+    align-items: center;
+   height: fit-content;
+}
+
+.nav h1 {
+    
+border-radius: 20px;
+    color: aliceblue;
+    text-shadow: 2px 2px 6px black;
+    width: fit-content;
+    padding: 10px 5px;   
+}
+
+.nav ul {
+    display: flex;
+    list-style: none;
+   padding: 0 10px;
+   
+
+}
+
+.nav ul a {
+    padding: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 14px;
+}

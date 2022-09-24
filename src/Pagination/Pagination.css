@@ -1,0 +1,28 @@
+
+
+.pagination{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+   list-style: none;
+  margin: 20px 0;
+}
+
+.pagination li{
+    width: 20px;
+    height:20px;
+    border: 1px solid black;
+    margin: 4px 4px;
+    text-align: center;
+    cursor: pointer;
+   
+}
+
+.pagination li:hover{
+    background-color:darkorange;
+}
+
+ .pagination .activePage {
+    background-color: darkorange;
+    color: aliceblue;
+}

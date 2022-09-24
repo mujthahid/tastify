@@ -1,0 +1,38 @@
+.banner{
+max-height:450px;
+overflow: hidden;
+}
+
+.banner img{
+    width: 100vw;
+    object-fit:cover;
+   position: relative;
+  
+}
+
+.banner h1{
+color: whitesmoke;
+position: absolute;
+top:75px;
+max-width: 300px;
+ font-size: 18px;   
+ padding: 0 10px;
+ text-shadow:1px 3px 5px rgb(5, 3, 1) ;
+}
+
+.nav{
+    position: absolute;
+    z-index: 1;
+    
+}
+
+
+.nav li{
+   margin-left: 40px;
+} 
+
+@media(max-width: 757px){
+    .banner h1{
+        font-size: 16px;
+    }
+}

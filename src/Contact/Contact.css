@@ -1,0 +1,56 @@
+.contact{
+   display: flex;
+   justify-content: space-around;
+   padding: 20px 20px;
+   background-color:dimgray;
+}
+
+.contact ul{
+    list-style: none;
+   
+}
+
+.address p{
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.address span{
+    font-size: 12px;
+}
+
+
+
+
+.address ul{
+    padding: 10px 0;
+}
+
+.address li{
+    font-size: 14px;
+    
+}
+
+.socialMedia ul{
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.socialMedia li{
+    cursor: pointer;
+}
+
+.socialMedia a{
+color: aliceblue;
+}
+
+.socialMedia li:hover{
+    scale: 1.1;
+}
+
+.socialMedia h4{
+    text-align: center;
+}
+

@@ -1,0 +1,39 @@
+.container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+.container h1{
+    margin: 25px 0;
+    text-align: center;
+   
+}
+
+.container .para{
+    margin: auto;
+    max-width: 400px;
+    margin-bottom: 25px;
+}
+
+.menuData{
+    margin: 0 40px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+    
+   
+}
+
+.menuData img{
+    max-width: 250px;
+    height: auto;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.menuData li h3{
+   max-width: 250px;
+     text-align:center;
+}
