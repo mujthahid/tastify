@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tastify/static/css/main.d72957b7.css",
+    "main.js": "/tastify/static/js/main.3c4eea84.js",
+    "index.html": "/tastify/index.html",
+    "main.d72957b7.css.map": "/tastify/static/css/main.d72957b7.css.map",
+    "main.3c4eea84.js.map": "/tastify/static/js/main.3c4eea84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72957b7.css",
+    "static/js/main.3c4eea84.js"
+  ]
+}
