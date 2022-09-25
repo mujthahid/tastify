@@ -33,7 +33,7 @@
 
 .socialMedia ul{
     display: flex;
-    gap: 5px;
+    gap: 10px;
     justify-content: center;
     padding: 20px 0;
 }

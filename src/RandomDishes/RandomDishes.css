@@ -10,9 +10,12 @@
 }
 
 .container .para{
+   
     margin: auto;
     max-width: 400px;
     margin-bottom: 25px;
+    padding: 0 25px;
+   
 }
 
 .menuData{

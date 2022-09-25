@@ -9,7 +9,7 @@
     display: flex;
     flex-wrap: wrap;
     list-style: none;
-    gap: 5px;
+    gap: 10px;
    text-align: center;
     margin: 50px 0;
     justify-content: center;

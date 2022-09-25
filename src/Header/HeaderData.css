@@ -17,6 +17,7 @@
     width: 100vw;
     align-items: center;
    height: fit-content;
+   
 }
 
 .nav h1 {
@@ -33,12 +34,19 @@ border-radius: 20px;
     list-style: none;
    padding: 0 10px;
    
+   
 
 }
 
 .nav ul a {
-    padding: 20px;
+    padding:20px 10px;
     text-decoration: none;
     color: aliceblue;
     font-size: 14px;
+}
+
+@media (max-width: 757px){
+    .nav{
+        font-size: 10px;
+    }
 }
